@@ -1,5 +1,0 @@
-streamlit==1.26.0
-numpy>=1.25.0  # Requires Python 3.12+ compatibility
-pandas>=2.1.0   # Requires Python 3.12+ compatibility
-setuptools==70.0.0  # Explicitly include setuptools
-wheel==0.43.0       # Ensure wheel is available
